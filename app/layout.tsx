@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "ChatGPT PWA",
-  description: "Personal use as a GPT desktop app",
+  description: "ChatGPT Desktop PWA",
 };
 
 export default function RootLayout({
